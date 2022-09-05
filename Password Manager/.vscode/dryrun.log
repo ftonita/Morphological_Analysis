@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/iskander/Documents/Python projects/Password Manager'
+python3 main.py utils.py
+make: Leaving directory `/Users/iskander/Documents/Python projects/Password Manager'
+ 
